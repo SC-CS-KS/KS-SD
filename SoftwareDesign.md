@@ -4,10 +4,14 @@
 
 # [UML](UML/README.md)
 
-# 设计过程
+# 软件设计
 ## 需求分析
+
 ## 业务分析与建模
+
 ## 系统设计
+### [架构设计](https://github.com/SC-CS-KS/KS-Architecture/tree/master/_Design)
+### [非功能设计与验证](Non-functional-Design/README.md)
 
 # 设计方法
 ## [SOAD（面向服务设计）](SOAD/README.md)

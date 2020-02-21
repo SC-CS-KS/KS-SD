@@ -4,23 +4,21 @@
 
 # [UML](UML/README.md)
 
-# 设计流程
+# 设计过程
 ## 需求分析
-## 业务建模
+## 业务分析与建模
+## 系统设计
 
-# [SOAD（面向服务设计）](SOAD/README.md)
+# 设计方法
+## [SOAD（面向服务设计）](SOAD/README.md)
 
-# [DDD](https://github.com/SC-CS-KS/KS-DDD)
+## [DDD](https://github.com/SC-CS-KS/KS-DDD)
 
-# “用例驱动”设计
+## [用例驱动设计]()
 
-# [OOD](OOD/README.md)
+## [OOA OOD](OOA-OOD/README.md)
+### [SOLID](OOD/SOLID/README.md)
+### [RDD](OOD/RDD/README.md)
 
-## [SOLID](OOD/SOLID/README.md)
-
+# 设计原则
 ## [GRASP](OOD/GRASP/README.md)
-## [RDD](OOD/RDD/README.md)
-
-
-
-
